@@ -1,1 +1,2 @@
 -finish the k cluster module in lab 6 doc
+-finish the last portion of final exam
